@@ -3,7 +3,7 @@ import requests
 import json
 import os
 
-HF_TOKEN = "Hf_token"
+HF_TOKEN = "HF_token"
 
 #  Hugging Face Token Setup
 
