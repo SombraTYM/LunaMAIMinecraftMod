@@ -1,0 +1,2 @@
+Copy this into your terminal and wait for it to download:
+pip install flask requests
